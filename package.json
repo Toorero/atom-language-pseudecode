@@ -1,8 +1,8 @@
 {
-  "name": "language-pascal",
+  "name": "language-pseudocode",
   "version": "1.0.0",
-  "description": "Pascal language support in Atom",
-  "repository": "https://github.com/alefragnani/atom-language-pascal",
+  "description": "Pseudocode language support in Atom",
+  "repository": "https://github.com/Toorero/atom-language-pseudecode",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
